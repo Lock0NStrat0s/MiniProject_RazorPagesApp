@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="WinFormsDemoLibrary">
+      <HintPath>WinFormsDemoLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
